@@ -1,0 +1,2 @@
+insert into user (ID, NAME, EMAIL, PHONE, GENDER) values (1001, "John", "john@devt.com", "4564654", "Male")
+insert into user (ID, NAME, EMAIL, PHONE, GENDER) values (1002, "Mary", "mary@devt.com", "5564664", "Female")
